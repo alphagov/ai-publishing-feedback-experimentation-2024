@@ -1,5 +1,7 @@
 # AI Publishing Feedback Experimentation
 
+**Archived** - Repository of experimentation that may get picked up later.
+
 A store of Data Science experimental work, started in Feb 2024, on how AI could help in understanding user feedback in GOV.UK Publishing.
 
 ## Nomenclature
@@ -80,4 +82,4 @@ you may need to run `gcloud auth login` to set up your credentials.*
 
 ## Licence
 
-[MIT License](LICENSE)
+[MIT License](LICENCE)
